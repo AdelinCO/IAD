@@ -13,10 +13,10 @@ import constans.testIAD1.existence.Existence;
 /** Uncomment these lines to instantiate other existences: */
 
 //import constans.testIAD1.existence.Existence020;
-import constans.testIAD1.existence.Existence030;
+//import constans.testIAD1.existence.Existence030;
 //import constans.testIAD1.existence.Existence031;
 //import constans.testIAD1.existence.Existence032;
-//import constans.testIAD1.existence.Existence040;
+import constans.testIAD1.existence.Existence040;
 //import constans.testIAD1.existence.Existence050;
 
 /**
@@ -46,10 +46,10 @@ public class App extends Application {
         /** Change this line to instantiate another existence: */
         //Existence existence = new Existence010();
         //Existence existence = new Existence020();
-        Existence existence = new Existence030();
+        //Existence existence = new Existence030();
         //Existence existence = new Existence031();
         //Existence existence = new Existence032();
-        //Existence existence = new Existence040();
+        Existence existence = new Existence040();
         //Existence existence = new Existence050();
         //Existence existence = new Existence051();
 
